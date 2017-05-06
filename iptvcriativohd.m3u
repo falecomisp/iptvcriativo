@@ -1,0 +1,256 @@
+#EXTM3U
+
+#PLAYLISTV: pltv-logo="https://drive.google.com/file/d/0B_tKy2LIxHKUZkxtX2p4SzVGZjg/view?usp=sharing" pltv-name="IPTV CRIATIVO HD" pltv-description="CANAIS IPTV" 
+pltv-cover="https://drive.google.com/file/d/0B_tKy2LIxHKUeFlFb0gzU1Exc3c/view?usp=sharing" pltv-author="IPTV CRIATIVO" pltv-site="XXXXXX" pltv-email="XXXXXX"
+
+#EXTINF:-1 tvg-logo="http://vertvonline.gratis/imagens/upload/prog/185b01a8085f178ce95f4cb27a3d97c9.jpg"  group-title="TV ABERTA",  Record
+http://wz3.dnip.com.br/tvgazetamt/tvgazetamt.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://vertvonline.gratis/imagens/upload/prog/d782022f4f769ce8f316f96fef5defb7.jpg"  group-title="TV ABERTA",  Rede Globo
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1811.m3u8
+
+#EXTINF:-1 tvg-logo="http://vertvonline.gratis/imagens/upload/prog/196aa6b960357f9d3139bd67fc469590.jpg"  group-title="TV ABERTA", SBT (HD)
+http://srv6.zoeweb.tv:1935/z343-live/stream/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="http://vertvonline.gratis/imagens/upload/prog/ddb5958168b8c7a70b628bf1a9948fa3.jpg"  group-title="TV ABERTA", Rede TV
+http://evp.mm.uol.com.br:1935/redetv1/redetv1/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://vertvonline.gratis/imagens/upload/prog/9a0b3810f165f01789a184d0c985580a.jpg"  group-title="TV ABERTA", SBT (MATO GROSSO)
+http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://vertvonline.gratis/imagens/upload/prog/89cc0967e4993998c985ee154e8667e4.jpg"  group-title="ESPORTE",  ALL SPORTS
+http://link.theplatform.com/s/flac/pDqM__z_pkCD?mbr=true&feed=FoxPlay%20Sports%20Live%20Events&manifest=M3U&auth=lZ4PzsEq7QN8IlnWAxo20eCAcFCgoHBm
+
+#EXTINF:-1 tvg-logo="http://vertvonline.gratis/imagens/upload/prog/64424eefbad1260ed9ba71f449809a35.jpg"  group-title="DOCUMENTARIO",  NASA TV (HD) 
+https://nasa-i.akamaihd.net/hls/live/253565/NTV-Public1/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://vertvonline.gratis/imagens/upload/prog/3908025362fde5a7c3d9efa1bcb775ce.jpg"  group-title="TV ABERTA", Band - PARÁ
+http://video01.kshost.com.br/rba24509/rba24509/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://vertvonline.gratis/imagens/upload/prog/ecea2f1668efe9ca549bf042ea8d02d7.jpg"  group-title="TV ABERTA", ANIME TV (ESP)
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
+
+#EXTINF:-1 tvg-logo="http://vertvonline.gratis/imagens/upload/prog/d6110ea85c07f71eb2bac17e0c34205e.jpg"  group-title="ESPORTE", REAL MADRID TV (ESP)
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8
+
+#EXTINF:-1 tvg-logo="http://vertvonline.gratis/imagens/upload/prog/45a082823f8ab460dee8da86219200b3.jpg"  group-title="TV ABERTA", Canal Saúde
+http://gbbrlive2.sambatech.com.br:80/liveevent/CanalSaude_1d664cc5aa583759e0550c79d8e4e5b8/livestream/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://vertvonline.gratis/imagens/upload/prog/9ecb611db2b59decfef6629a38f2e9dc.jpg"  group-title="TV ABERTA", Futura
+http://cdn.srv.br:8088/UCSTV/UCSTV/playlist.m3u8?
+
+#EXTINF:-1 tvg-logo="http://vertvonline.gratis/imagens/upload/prog/2bba3580f3bb5591397a720d93b79b52.jpg"  group-title="ESPORTE",  Esporte Interativo  (HD) 
+https://vrzn-ei-ee.cdn.mdstrm.com/live-stream-secure/58121908685da2dd08de7ec5/publish/media_400.m3u8?dnt=true&access_token=scLggorA1kMiXeZKD5FdYm6tHolGoWbxlW9jIN3qPEXFRTBI7PUaZsQaNSTWj4uGZkXKErcFqV3&ref=https%3A%2F%2Fwww.eiplus.com.br%2Fcanal%2F47%2F&es=vrzn-ei-ee.cdn.mdstrm.com&proto=https
+
+#EXTINF:-1 tvg-logo="http://vertvonline.gratis/imagens/upload/prog/7f1791a9e6f9cac8ef9d9f1e362ec5c1.jpg"  group-title="RELIGIOSO",  Canção Nova
+http://cnhls-lh.akamaihd.net:80/i/tvcnmob_1@147036/index_540_av-b.m3u8
+
+#EXTINF:-1 tvg-logo="http://vertvonline.gratis/imagens/upload/prog/a9486f9c3c4f05198161395cb1c2c9f1.jpg"  group-title="TV ABERTA",  ESPN BRASIL (HD)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1866.m3u8
+
+#EXTINF:-1 tvg-logo="http://vertvonline.gratis/imagens/upload/prog/d7b4912c7a7bfe32a1dd7047e7ea925b.jpg"  group-title="TV ABERTA",  Globo News
+http://5.79.68.138:8081/look/globonews/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://vertvonline.gratis/imagens/upload/prog/d2e5a34656df4da9b99fde59d955bd3f.jpg"  group-title="TV ABERTA",  Tv Gazeta
+http://172.93.110.130:1935/televisaorn/televisaorn/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://vertvonline.gratis/imagens/upload/prog/f9d945519119a010f3dc0644d7060676.jpg"  group-title="TV ABERTA",  RECORD NEWS HD
+http://v1.fabricahost.com.br:1935/tvguara/tvguara/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://vertvonline.gratis/imagens/upload/prog/de328b60f3d0c8b9612f92614b6e5dd9.jpg"  group-title="TV ABERTA",  Tv Cultura
+http://wz-brasil1.comets.com.br/tvbaiana/aovivo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://vertvonline.gratis/imagens/upload/prog/930b5654c4cee3f659e1038d5279d350.jpg"  group-title="ESPORTE",  REDBULL TV
+https://elementaldelta2.redbull.tv/diglinear.m3u8
+
+#EXTINF:-1 tvg-logo="http://vertvonline.gratis/imagens/upload/prog/10f5468d6c9e9df60968e72cbc8ab15f.jpg"  group-title="POLITICA",  TV Câmara
+http://stream2.camara.leg.br:80/tv1/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="http://vertvonline.gratis/imagens/upload/prog/5ed62f2e81ba77a5997ea544f22ffcd5.jpg"  group-title="RELIGIOSO",  Gostei Gospel Tv
+http://192.99.101.129:1935/gosteigospeltv/gosteigospeltv/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://vertvonline.gratis/imagens/upload/prog/05a60cd9dd69cfe2450c1d8bccdcaaa4.jpg"  group-title="ESPORTE",  FISH TV
+http://streamingbr.com.br:1935/st87-live/st87-live_720p/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="http://vertvonline.gratis/imagens/upload/prog/2654990bc577c2d94d0ebcc60719745b.jpg"  group-title="TV ABERTA",  Viva
+http://158.69.24.208:8081/live/netiptv208/208/491.m3u8
+
+#EXTINF:-1 tvg-logo="http://vertvonline.gratis/imagens/upload/prog/f270dab880c4db3399adaf6fa9abc28c.jpg"  group-title="TV ABERTA",  Antena 3 (ESP)
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_1_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="http://vertvonline.gratis/imagens/upload/prog/0ad625493c80513f03b4b9b4902b2f4e.jpg"  group-title="NOTICIAS",  BLOOMBERG (HD) (US)
+http://btv-i.akamaihd.net:80/hls/live/202760/btvusa_ios/P1/M10K.m3u8
+
+#EXTINF:-1 tvg-logo="http://vertvonline.gratis/imagens/upload/prog/352d277914a096a016956a90fde9864c.jpg"  group-title="ESPORTE",  FX SPORTS 2
+http://link.theplatform.com/s/flac/8sGhDeM4tLBi?mbr=true&feed=FoxPlay%20Sports%20Live%20Events&manifest=M3U&auth=s09d3wXWk6R6UrmCA1pokWACEAD8MJCu&manifest=m3u8
+
+#EXTINF:-1 tvg-logo="http://vertvonline.gratis/imagens/upload/prog/1ff11867de78c66061636de20a589222.jpg"  group-title="TV ABERTA",  RECORD (GOIAS)
+http://srv3.zoeweb.tv:1935/zw315/sucesso/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://vertvonline.gratis/imagens/upload/prog/0dca9bae73d90b6b8bc20e353d1060bb.jpg"  group-title="NOTICIAS",  ESPN (INTER HD)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1824.m3u8
+
+#EXTINF:-1 tvg-logo="http://vertvonline.gratis/imagens/upload/prog/0f0b70114d8ce557b938f068d630ee69.jpg"  group-title="TV ABERTA",  VIA MORENA
+http://wowza2.netpoint.com.br/viamorena/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://vertvonline.gratis/imagens/upload/prog/5fc6755fbd8f6bc66156f05e52cb88c6.jpg"  group-title="TV ABERTA",  Agro Brasil (MT)
+http://154.16.127.17:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://vertvonline.gratis/imagens/upload/prog/42bbc48f0ee57da922f97cd3f5d002b9.jpg"  group-title="TV ABERTA",  ShopTime
+http://cdnapi.kaltura.com:80/p/0/sp/0/playManifest/entryId/1_lld8saie/format/applehttp/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://vertvonline.gratis/imagens/upload/prog/f217aa8c6203418550834b0e1d2ab2c2.jpg"  group-title="ESPORTE",  EI MAXX (HD)
+https://vrzn-ei-ee.cdn.mdstrm.com/live-stream-secure/5801255b39c38e1109ddfabd/publish/media_400.m3u8?dnt=true&access_token=8HYeFnEHOM8HRAkTZCToV5RcDcFyjzN48KDTHawTQjvf4iF0tkszTGYfoJT43L66QkGHSgpPbVQ&ref=https%3A%2F%2Fwww.eiplus.com.br%2Fcanal%2F45%2Freal-madrid-x-barcelona%2F&es=vrzn-ei-ee.cdn.mdstrm.com&proto=https
+
+#EXTINF:-1 tvg-logo="http://vertvonline.gratis/imagens/upload/prog/32ea83251de4966c7bbee729976e69ca.jpg"  group-title="RELIGIOSO",  NOVO TEMPO (HD)
+http://stream.novotempo.com:1935/tv/tvnovotempo.stream/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://vertvonline.gratis/imagens/upload/prog/8d3d65da473dcbee5a07ce73cb20dca3.jpg"  group-title="TV ABERTA",  SBT (PARAIBA)
+http://tv.paraibahost.com.br:1935/tvtambau/tvtambau/chunklist_w1668123216.m3u8
+
+#EXTINF:-1 tvg-logo="http://vertvonline.gratis/imagens/upload/prog/0ce7be181d18e1cd1010c310691608e3.jpg"  group-title="NOTICIAS",  EURO NEWS (HD) (PT)
+http://fr-par-iphone-1.cdn.hexaglobe.net:80/streaming/euronews_ewns/29-live.m3u8
+
+#EXTINF:-1 tvg-logo="http://vertvonline.gratis/imagens/upload/prog/7647c96208abc30d0c5fc4add711237f.jpg"  group-title="NOTICIAS",  Sevilha TV (HD) (ESP)
+http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://vertvonline.gratis/imagens/upload/prog/bb95a5e051a9adc94a6e5ce51583bcd7.jpg"  group-title="TV ABERTA",  Amazon SAT
+http://slrp.sambavideos.sambatech.com/liveevent/amazonsatabr1_3e9c859611a5e7fbedc785bd33c418b5/livestream3/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://vertvonline.gratis/imagens/upload/prog/709a3945f5873353862f55a909200a4f.jpg"  group-title="TV ABERTA",  TV Teen
+http://stmv2.srvstm.com/bruno1917/bruno1917/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://vertvonline.gratis/imagens/upload/prog/f3ab2cb41220d3cd8088c8d7af8f8a30.jpg"  group-title="NOTICIAS",  RTP 1 (HD)  (PT)
+http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp1_5ch5h264.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://vertvonline.gratis/imagens/upload/prog/79d49cd5938cd44130bfe70749e03650.jpg"  group-title="NOTICIAS",  France 24 (HD) (FRA)
+http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://vertvonline.gratis/imagens/upload/prog/1e79b805c36ec00442badb957728a562.jpg"  group-title="NOTICIAS",  RTP 2 (HD)  (PT)
+http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp2_5ch3h264.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://vertvonline.gratis/imagens/upload/prog/de66be2706aa60c75cef5add2d2ec5ce.jpg"  group-title="DOCUMENTARIO",  RT DOC (RUS) (HD)
+http://rt.ashttp.visionip.tv:1935/live/RT_Doc-SD/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://vertvonline.gratis/imagens/upload/prog/ef1b482cb278547a86bfa9e95ac62b42.jpg"  group-title="TV ABERTA",  TV ESCOLA 
+http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://vertvonline.gratis/imagens/upload/prog/5f9c587843abee5f7b98da55513096ce.jpg"  group-title="NOTICIAS",  HEAR TV (UK) (HD)
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_398_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="http://vertvonline.gratis/imagens/upload/prog/4fdf532e1fff09fa8753ab3090a3b03f.jpg"  group-title="NOTICIAS",  TVI 1 (PT) (HD)
+http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://vertvonline.gratis/imagens/upload/prog/c49b18aeca66fc8b57207c435e79e93d.jpg"  group-title="NOTICIAS",  NFL NOW (HD-5K) (US)
+https://svglive3-event.level3.nfl.com/nflent3/live/now/NFLNOW.m3u8
+
+#EXTINF:-1 tvg-logo="http://vertvonline.gratis/imagens/upload/prog/8d815f685aaa085233ab0df3829309b3.jpg"  group-title="RELIGIOSO",  TV Aparecida (HD)
+http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://vertvonline.gratis/imagens/upload/prog/4374577aeb95d16e55c9e2a010f2c4e3.jpg"  group-title="MUSICA",  Retro Music (HD)
+http://stream.mediawork.cz/retrotv//retrotvHQ1/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://vertvonline.gratis/imagens/upload/prog/2280b69bea99bdef0c48b383b2c2a90a.jpg"  group-title="MUSICA",  Djing Ibiza (HD)
+http://www.djing.com/tv/01.m3u8
+
+#EXTINF:-1 tvg-logo="http://vertvonline.gratis/imagens/upload/prog/0618128a8e581b415246cad61cd6195d.jpg"  group-title="NOTICIAS",  BAND NEWS
+http://158.69.24.208:8081/live/netiptv208/208/495.m3u8
+
+#EXTINF:-1 tvg-logo="http://vertvonline.gratis/imagens/upload/prog/aa6dc17d7b488e8b1fd174c3823cdbd2.jpg"  group-title="NOTICIAS",  BH NEWS
+http://edgenew.z1on.com:1935/1700/3125/3125-hotmedia.sdp/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://playlistloader.web2435.uni5.net/img/sem-imagem.jpg"  group-title="TV ABERTA", AXN
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1860.m3u8
+
+#EXTINF:-1 tvg-logo="http://playlistloader.web2435.uni5.net/img/sem-imagem.jpg"  group-title="TV ABERTA", Band Alternativo
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1859.m3u8
+
+#EXTINF:-1 tvg-logo="http://playlistloader.web2435.uni5.net/img/sem-imagem.jpg"  group-title="NOTICIAS", Band News
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1857.m3u8
+
+#EXTINF:-1 tvg-logo="http://playlistloader.web2435.uni5.net/img/sem-imagem.jpg"  group-title="ESPORTE", Band Sports
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1856.m3u8
+
+#EXTINF:-1 tvg-logo="http://playlistloader.web2435.uni5.net/img/sem-imagem.jpg"  group-title="NOTICIAS", Boomerang
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1852.m3u8
+
+#EXTINF:-1 tvg-logo="http://playlistloader.web2435.uni5.net/img/sem-imagem.jpg"  group-title="NOTICIAS", Canal Brasil
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1851.m3u8
+
+#EXTINF:-1 tvg-logo="http://playlistloader.web2435.uni5.net/img/sem-imagem.jpg"  group-title="TV ABERTA", Canal Rural
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1850.m3u8
+
+#EXTINF:-1 tvg-logo="http://playlistloader.web2435.uni5.net/img/sem-imagem.jpg"  group-title="MUSICA", Canal Sony
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1849.m3u8
+
+#EXTINF:-1 tvg-logo="http://playlistloader.web2435.uni5.net/img/sem-imagem.jpg"  group-title="TV ABERTA", GNT
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1807.m3u8
+
+#EXTINF:-1 tvg-logo="http://playlistloader.web2435.uni5.net/img/sem-imagem.jpg"  group-title="DOCUMENTARIOS", H2
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1806.m3u8
+
+#EXTINF:-1 tvg-logo="http://playlistloader.web2435.uni5.net/img/sem-imagem.jpg"  group-title="FILMES", HBO Family
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1803.m3u8
+
+#EXTINF:-1 tvg-logo="http://playlistloader.web2435.uni5.net/img/sem-imagem.jpg"  group-title="FILMES", HBO Plus e
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1800.m3u8
+
+#EXTINF:-1 tvg-logo="http://playlistloader.web2435.uni5.net/img/sem-imagem.jpg"  group-title="FILMES", HBO Plus
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1801.m3u8
+
+#EXTINF:-1 tvg-logo="http://playlistloader.web2435.uni5.net/img/sem-imagem.jpg"  group-title="FILMES", HBO Signature
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1799.m3u8
+
+#EXTINF:-1 tvg-logo="http://playlistloader.web2435.uni5.net/img/sem-imagem.jpg"  group-title="FILMES", HBO
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1805.m3u8
+
+#EXTINF:-1 tvg-logo="http://playlistloader.web2435.uni5.net/img/sem-imagem.jpg"  group-title="FILMES", HBO2
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1798.m3u8
+
+#EXTINF:-1 tvg-logo="http://playlistloader.web2435.uni5.net/img/sem-imagem.jpg"  group-title="NOTICIAS", NBR
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1780.m3u8
+
+#EXTINF:-1 tvg-logo="http://playlistloader.web2435.uni5.net/img/sem-imagem.jpg"  group-title="FILMES", Paramount
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1774.m3u8
+
+#EXTINF:-1 tvg-logo="http://playlistloader.web2435.uni5.net/img/sem-imagem.jpg"  group-title="ESPORTE", Premiere 2
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1770.m3u8
+
+#EXTINF:-1 tvg-logo="http://playlistloader.web2435.uni5.net/img/sem-imagem.jpg"  group-title="ESPORTE", Premiere 3
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1768.m3u8
+
+#EXTINF:-1 tvg-logo="http://playlistloader.web2435.uni5.net/img/sem-imagem.jpg"  group-title="ESPORTE", Premiere 4
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1766.m3u8
+
+#EXTINF:-1 tvg-logo="http://playlistloader.web2435.uni5.net/img/sem-imagem.jpg"  group-title="ESPORTE", Premiere 5
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1764.m3u8
+
+#EXTINF:-1 tvg-logo="http://playlistloader.web2435.uni5.net/img/sem-imagem.jpg"  group-title="ESPORTE", Premiere 6
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1762.m3u8
+
+#EXTINF:-1 tvg-logo="http://playlistloader.web2435.uni5.net/img/sem-imagem.jpg"  group-title="Sem Grupo", Premiere 7
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1761.m3u8
+
+#EXTINF:-1 tvg-logo="http://playlistloader.web2435.uni5.net/img/sem-imagem.jpg"  group-title="ESPORTE", Premiere 8
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1760.m3u8
+
+#EXTINF:-1 tvg-logo="http://playlistloader.web2435.uni5.net/img/sem-imagem.jpg"  group-title="ESPORTE", Premiere 9
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1759.m3u8
+
+#EXTINF:-1 tvg-logo="http://playlistloader.web2435.uni5.net/img/sem-imagem.jpg"  group-title="ESPORTE", Premiere Clubes
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1758.m3u8
+
+#EXTINF:-1 tvg-logo="http://playlistloader.web2435.uni5.net/img/sem-imagem.jpg"  group-title="ESPORTE", Prime Box Brazil
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1757.m3u8
+
+#EXTINF:-1 tvg-logo="http://playlistloader.web2435.uni5.net/img/sem-imagem.jpg"  group-title="ESPORTE", SporTV 2 Alternativo
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1736.m3u8
+
+#EXTINF:-1 tvg-logo="http://playlistloader.web2435.uni5.net/img/sem-imagem.jpg"  group-title="ESPORTE", SporTV 2
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1737.m3u8
+
+#EXTINF:-1 tvg-logo="http://playlistloader.web2435.uni5.net/img/sem-imagem.jpg"  group-title="ESPORTE", SporTV 3
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1735.m3u8
+
+#EXTINF:-1 tvg-logo="http://playlistloader.web2435.uni5.net/img/sem-imagem.jpg"  group-title="ESPORTE", SporTV Alternativo
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1734.m3u8
